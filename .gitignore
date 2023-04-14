@@ -1,2 +1,4 @@
 progbook.pdf
 js/
+.vscode/
+__pycache__/
