@@ -16,12 +16,10 @@ class Solution:
         tail = save
 
         while head:
-            a = save.next
-            save.next = ListNode()
-            save.next.val = head.val
-            save.next.next = a
-
-            # next step
+            tail.next = ListNode(
+                val=head.val,
+                next=tail.next
+            )
             head = head.next
 
         return save.next
