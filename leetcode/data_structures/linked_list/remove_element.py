@@ -1,4 +1,4 @@
-from typing import List
+from typing import Optional
 
 
 class ListNode:
