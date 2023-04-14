@@ -2,3 +2,8 @@ progbook.pdf
 js/
 .vscode/
 __pycache__/
+
+
+# leetcode
+leetcode/__pycache__/
+leetcode/.vscode/
