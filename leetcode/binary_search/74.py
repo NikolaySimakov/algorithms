@@ -21,22 +21,6 @@ class Solution:
         else:
             return False
 
-        # n_low = 0
-        # n_high = len(matrix[low]) - 1
-
-        # while n_low < n_high:
-        #     mid = n_low + (n_high - n_low)//2
-        #     row = matrix[low]
-
-        #     if row[mid] < target:
-        #         n_low = mid + 1
-        #     elif row[mid] > target:
-        #         n_high = mid - 1
-
-        #     print(n_low, n_high)
-
-        # return n_low == n_high
-
 
 sol = Solution()
 
