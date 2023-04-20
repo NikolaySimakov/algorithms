@@ -8,14 +8,15 @@ class ListNode:
 
 
 class Solution:
-    def hasCycle(self, head: Optional[ListNode]) -> bool:
+    def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
         nodes = set()
+
         while head:
             if head in nodes:
-                return True
+                return head
             else:
                 nodes.add(head)
 
             head = head.next
 
-        return False
+        return None
