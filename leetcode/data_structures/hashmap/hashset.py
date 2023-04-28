@@ -1,4 +1,4 @@
-# Task 705
+# Leetcode 705
 
 class ListNode:
     def __init__(self, val=0, next=None):
