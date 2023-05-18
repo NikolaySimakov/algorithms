@@ -5,8 +5,11 @@
 ## Algorithms and Data Structures
 
 https://roadmap.sh/computer-science
+
 https://codeforces.com/catalog
+
 http://neerc.ifmo.ru/wiki/index.php?title=Алгоритмы_и_структуры_данных
+
 https://github.com/TheAlgorithms/Python
 
 ### Strings
