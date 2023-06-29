@@ -18,15 +18,15 @@ Leetcode 20 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/da
 
 Leetcode 21 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/linked_list/merge_two_lists.go
 
-Leetcode 22 - TODO
+Leetcode 22 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/stack/22.py
 
 Leetcode 23 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/linked_list/23.py
 
-Leetcode 26 - TODO
+Leetcode 26 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/array/26.py
 
 Leetcode 42 - TODO
 
-Leetcode 49 - TODO
+Leetcode 49 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/hashmap/49.js
 
 Leetcode 53 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/array/53.py
 
@@ -42,13 +42,13 @@ Leetcode 100 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/d
 
 Leetcode 101 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/tree/symmetric_tree.py
 
-Leetcode 103 - TODO
+Leetcode 103 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/tree/103.py
 
 Leetcode 104 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/tree/max_depth.py
 
 Leetcode 125 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/strings/125.js
 
-Leetcode 136 - TODO
+Leetcode 136 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/bit_manipulation/136.py
 
 Leetcode 167 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/two_pointers/167.go
 
@@ -56,7 +56,7 @@ Leetcode 200 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/g
 
 Leetcode 206 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/linked_list/reverse.py
 
-Leetcode 228 - TODO
+Leetcode 228 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/array/228.py
 
 Leetcode 236 - TODO
 
