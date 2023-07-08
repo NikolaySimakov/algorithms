@@ -7,7 +7,9 @@ class TreeNode:
         self.right = right
         
 class Solution:
-    def bstFromPreorder(self, preorder: List[int]) -> Optional[TreeNode]:
+    
+    # dfs recursion solution
+    def bstFromPreorderDFS(self, preorder: List[int]) -> Optional[TreeNode]:
         root = TreeNode(preorder.pop(0))
 
         def gen(node, v):
@@ -23,4 +25,41 @@ class Solution:
         while len(preorder):
             gen(root, preorder.pop(0))
 
+        return root
+    
+    
+    # recursion solution
+    def bstFromPreorderRecursion(self, preorder: List[int]) -> Optional[TreeNode]:
+        if not preorder: return None
+
+        root = TreeNode(preorder[0])
+        i = 1
+
+        while i < len(preorder) and preorder[i] < root.val:
+            i += 1
+        
+        root.left = self.bstFromPreorderRecursion(preorder[1:i])
+        root.right = self.bstFromPreorderRecursion(preorder[i:])
+        return root
+    
+    
+    # stack solution
+    def bstFromPreorderStack(self, preorder: List[int]) -> Optional[TreeNode]:
+        root = TreeNode(preorder[0])
+        parent = root
+        stack = [parent]
+
+        for val in preorder[1:]:
+            node = TreeNode(val)
+            if stack and val < parent.val:
+                parent.left = node
+                stack.append(node)
+            else:
+                while stack and stack[-1].val < val:
+                    parent = stack.pop()
+                parent.right = node
+                stack.append(node)
+            
+            parent = node
+        
         return root
