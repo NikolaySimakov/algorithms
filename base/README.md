@@ -19,10 +19,31 @@
 
 ## Languages
 
-Используемые языки в репозитории.
+Используемые языки в репозитории:
+
+- Python
+- Golang/Go
+- JavaScript/TypeScript
+- C/C++
+- Kotlin
+- SQL
 
 ### Python
+Ресурсы по методам из стандартных библиотек Python, которые могут пригодиться в решении алгоритмических задач.
 
+База по Python собесам:
 - https://github.com/amaargiru/pycore
+- https://github.com/yakimka/python_interview_questions
+
+heapq:
+- [heapq](https://digitology.tech/docs/python_3/library/heapq.html)
+
+collections:
+- [defaultdict](https://docs-python.ru/standart-library/modul-collections-python/klass-defaultdict-modulja-collections/)
+- [deque](https://docs-python.ru/standart-library/modul-collections-python/klass-deque-modulja-collections/)
+- [Counter](https://docs-python.ru/standart-library/modul-collections-python/klass-counter-modulja-collections/)
+
+functools:
+- [cmp_to_key](https://pythonz.net/references/named/functools.cmp_to_key/)
 
 ### Go
