@@ -26,6 +26,8 @@ Leetcode 26 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/da
 
 Leetcode 42 - TODO
 
+Leetcode 43 - TODO
+
 Leetcode 49 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/hashmap/49.js
 
 Leetcode 53 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/array/53.py
@@ -46,9 +48,15 @@ Leetcode 103 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/d
 
 Leetcode 104 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/tree/max_depth.py
 
+Leetcode 124 - TODO
+
 Leetcode 125 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/strings/125.js
 
 Leetcode 136 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/bit_manipulation/136.py
+
+Leetcode 146 - TODO
+
+Leetcode 150 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/stack/150.py
 
 Leetcode 167 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/two_pointers/167.go
 
@@ -64,9 +72,21 @@ Leetcode 242 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/s
 
 Leetcode 283 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/two_pointers/283.go
 
+Leetcode 341 - TODO
+
+Leetcode 350 - TODO
+
 Leetcode 380 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/hashmap/380.js
 
+Leetcode 392 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/two_pointers/392.py
+
 Leetcode 404 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/tree/404.py
+
+Leetcode 438 - TODO
+
+Leetcode 443 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/two_pointers/443.py
+
+Leetcode 470 - TODO
 
 Leetcode 557 - TODO
 
@@ -74,9 +94,11 @@ Leetcode 560 - TODO
 
 Leetcode 567 - TODO
 
+Leetcode 581 - TODO
+
 Leetcode 704 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/binary_search/704.py
 
-Leetcode 763 - TODO
+Leetcode 763 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/hashmap/763.py
 
 Leetcode 849 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/two_pointers/849.go
 
@@ -85,3 +107,5 @@ Leetcode 938 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/d
 Leetcode 977 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/two_pointers/977.js
 
 Leetcode 1450 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/array/1450.js
+
+Leetcode 1493 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/sliding_window/1493.py
