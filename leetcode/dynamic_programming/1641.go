@@ -19,7 +19,7 @@ func countVowelStringsMath(n int) int {
 	return res
 }
 
-// DP solution
+// dynamic programming solution
 func countVowelStringsDP(n int) int {
 
 	if n == 1 {
