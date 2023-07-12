@@ -16,3 +16,26 @@ class Solution:
                 res.append(i)
         
         return res
+    
+    # modified solutions (sliding window)
+    def findAnagramsModified(self, s: str, p: str) -> List[int]:
+
+        res = []
+        n, k = len(s), len(p)
+        s_counter, p_counter = dict(Counter(s[:k-1])), dict(Counter(p))
+
+        for i in range(k-1, n):
+
+            # add element to s_counter dict
+            if s[i] in s_counter: s_counter[s[i]] += 1
+            else: s_counter[s[i]] = 1
+
+            # compare dicts
+            if s_counter == p_counter:
+                res.append(i - k + 1)
+            
+            # remove element from s_counter dict
+            if s_counter[s[i - k + 1]] - 1 == 0: del s_counter[s[i - k + 1]]
+            else: s_counter[s[i - k + 1]] -= 1
+        
+        return res
