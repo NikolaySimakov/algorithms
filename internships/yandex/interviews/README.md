@@ -26,13 +26,13 @@ Leetcode 26 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/da
 
 Leetcode 42 - TODO
 
-Leetcode 43 - TODO
+Leetcode 43 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/two_pointers/43.go
 
 Leetcode 49 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/hashmap/49.js
 
 Leetcode 53 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/array/53.py
 
-Leetcode 56 - TODO
+Leetcode 56 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/sorting/56.py
 
 Leetcode 71 - TODO
 
@@ -54,7 +54,7 @@ Leetcode 125 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/s
 
 Leetcode 136 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/bit_manipulation/136.py
 
-Leetcode 146 - TODO
+Leetcode 146 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/hashmap/146.py
 
 Leetcode 150 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/stack/150.py
 
@@ -74,7 +74,7 @@ Leetcode 283 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/t
 
 Leetcode 341 - TODO
 
-Leetcode 350 - TODO
+Leetcode 350 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/two_pointers/350.py
 
 Leetcode 380 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/hashmap/380.js
 
@@ -82,19 +82,19 @@ Leetcode 392 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/t
 
 Leetcode 404 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/tree/404.py
 
-Leetcode 438 - TODO
+Leetcode 438 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/sliding_window/438.py
 
 Leetcode 443 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/two_pointers/443.py
 
-Leetcode 470 - TODO
+Leetcode 470 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/math/470.py
 
-Leetcode 557 - TODO
+Leetcode 557 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/strings/557.py
 
-Leetcode 560 - TODO
+Leetcode 560 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/hashmap/560.py
 
 Leetcode 567 - TODO
 
-Leetcode 581 - TODO
+Leetcode 581 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/two_pointers/581.py
 
 Leetcode 704 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/binary_search/704.py
 
