@@ -1,11 +1,13 @@
-from collections import Counter
+from collections import Counter, defaultdict
 
 '''
 Solution is same to Leetcode 438
 '''
 
 class Solution:
-    def checkInclusion(self, s1: str, s2: str) -> bool:
+    
+    # Counter
+    def checkInclusionCounter(self, s1: str, s2: str) -> bool:
         if len(s1) > len(s2): return False
         n, k = len(s2), len(s1)
 
@@ -26,4 +28,24 @@ class Solution:
                 d2[s2[i - k + 1]] -= 1
         
         return False
+    
+    # defaultdict
+    def checkInclusionDefaultdict(self, s1: str, s2: str) -> bool:
+        if len(s1) > len(s2): return False
+        n, k = len(s2), len(s1)
+
+        d1, d2 = defaultdict(int), defaultdict(int)
+
+        for i in range(k):
+            d1[s1[i]] += 1
+            d2[s2[i]] += 1
+        
+        for i in range(k, n):
+            if d1 == d2: return True
+            d2[s2[i]] += 1
+            d2[s2[i-k]] -= 1
+            if d2[s2[i-k]] == 0:
+                del d2[s2[i-k]]
+        
+        return d1 == d2
 
