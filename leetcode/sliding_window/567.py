@@ -6,7 +6,7 @@ Solution is same to Leetcode 438
 
 class Solution:
     
-    # Counter
+    # Counter: runtime beats 37.94%, memory beats 60.49%
     def checkInclusionCounter(self, s1: str, s2: str) -> bool:
         if len(s1) > len(s2): return False
         n, k = len(s2), len(s1)
@@ -29,7 +29,7 @@ class Solution:
         
         return False
     
-    # defaultdict
+    # defaultdict: runtime beats 99.47%, memory beats 23.24%
     def checkInclusionDefaultdict(self, s1: str, s2: str) -> bool:
         if len(s1) > len(s2): return False
         n, k = len(s2), len(s1)
