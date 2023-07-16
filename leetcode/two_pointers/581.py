@@ -1,6 +1,28 @@
 from typing import List
 
 class Solution:
+    
+    # trivial solution O(nlog(n))
+    def findUnsortedSubarraySimple(self, nums: List[int]) -> int:
+        n = len(nums)
+        sorted_nums = sorted(nums)
+        l, r = 0, n-1
+    
+        for i in range(n):
+            if nums[i] != sorted_nums[i]:
+                break
+            else:
+                l += 1
+        
+        for i in range(n):
+            if nums[n-i-1] != sorted_nums[n-i-1]:
+                break
+            else:
+                r -= 1
+        
+        return max(0, r - l + 1)
+
+    # O(n)
     def findUnsortedSubarray(self, nums: List[int]) -> int:
         n = len(nums)
         cur_min, cur_max = nums[-1], nums[0] # pointers
