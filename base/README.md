@@ -17,6 +17,10 @@
 
 - https://proglib.io/p/derevya-i-grafy-chto-eto-takoe-i-pochemu-ih-obyazatelno-nuzhno-znat-kazhdomu-programmistu-2022-06-13
 
+### Dynamic programming 
+
+- https://pythonpip.ru/examples/algoritm-kadane-v-python-primer-ispolzovaniya
+
 ## Languages
 
 Используемые языки в репозитории:
