@@ -2,8 +2,25 @@ from typing import List
 
 class Solution:
     
-    # Approach: find max bar index
     def trap(self, height: List[int]) -> int:
+        l, r = 0, len(height) - 1
+        ml, mr = height[l], height[r]
+        res = 0
+        
+        while l < r:
+            if height[l] < height[r]:
+                l += 1
+                ml = max(ml, height[l])
+                res += ml - height[l]
+            else:
+                r -= 1
+                mr = max(mr, height[r])
+                res += mr - height[r]
+            
+        return res
+    
+    # Approach: find max bar index
+    def trapMaxBar(self, height: List[int]) -> int:
         l, r = 0, len(height) - 1
         res = max_bar_idx = 0
 
