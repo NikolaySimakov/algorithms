@@ -24,7 +24,7 @@ Leetcode 23 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/da
 
 Leetcode 26 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/array/26.py
 
-Leetcode 42 - TODO
+Leetcode 42 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/two_pointers/42.py
 
 Leetcode 43 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/two_pointers/43.go
 
@@ -34,7 +34,7 @@ Leetcode 53 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/da
 
 Leetcode 56 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/sorting/56.py
 
-Leetcode 71 - TODO
+Leetcode 71 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/stack/71.py
 
 Leetcode 76 - TODO
 
@@ -48,7 +48,7 @@ Leetcode 103 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/d
 
 Leetcode 104 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/tree/max_depth.py
 
-Leetcode 124 - TODO
+Leetcode 124 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/tree/124.py
 
 Leetcode 125 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/strings/125.js
 
@@ -66,7 +66,7 @@ Leetcode 206 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/d
 
 Leetcode 228 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/array/228.py
 
-Leetcode 236 - TODO
+Leetcode 236 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/tree/236.py
 
 Leetcode 242 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/strings/242.py
 
@@ -92,7 +92,7 @@ Leetcode 557 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/s
 
 Leetcode 560 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/data_structures/hashmap/560.py
 
-Leetcode 567 - TODO
+Leetcode 567 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/sliding_window/567.py
 
 Leetcode 581 - https://github.com/NikolaySimakov/algorithms/blob/main/leetcode/two_pointers/581.py
 
