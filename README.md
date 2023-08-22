@@ -12,6 +12,7 @@
 - [Backend](https://github.com/NikolaySimakov/algorithms/tree/main/internships/yandex/backend)
 - [Mobile iOS](https://github.com/NikolaySimakov/algorithms/tree/main/internships/yandex/mobile)
 - [ШАД](https://github.com/NikolaySimakov/algorithms/tree/main/internships/yandex/shad)
+- [Собеседования](https://github.com/NikolaySimakov/algorithms/tree/main/internships/yandex/interviews)
 
 ### Tinkoff
 
