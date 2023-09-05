@@ -31,6 +31,7 @@
 ### Ozon
 
 - [Отбор Весна](https://github.com/NikolaySimakov/algorithms/tree/main/internships/ozon/internship_2023)
+- [Route 256 | Middle Golang](https://github.com/NikolaySimakov/algorithms/tree/main/internships/ozon/route256)
 
 ## About me:
 
