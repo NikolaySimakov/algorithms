@@ -30,7 +30,7 @@
 
 ### Ozon
 
-- [Отбор Весна](https://github.com/NikolaySimakov/algorithms/tree/main/internships/ozon)
+- [Отбор Весна](https://github.com/NikolaySimakov/algorithms/tree/main/internships/ozon/internship_2023)
 
 ## About me:
 
