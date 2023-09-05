@@ -25,6 +25,7 @@
 ### Tinkoff
 
 - [Отбор Весна 2023](https://github.com/NikolaySimakov/algorithms/tree/main/internships/tinkoff/summer2023)
+- [Отбор Осень 2023](https://github.com/NikolaySimakov/algorithms/tree/main/internships/tinkoff/autumn2023)
 - [Отбор в Школу Бекенда](https://github.com/NikolaySimakov/algorithms/tree/main/internships/tinkoff/backend-school)
 
 ### Ozon
